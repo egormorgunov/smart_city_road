@@ -1,5 +1,5 @@
 # smart_city_road
  Среда для мультиагентного обучения с подкреплением.
 
- 
-![DQN_singleEnvironment](https://github.com/egormorgunov/smart_city_road/assets/108347547/c55a23dd-3ba0-4156-b26f-2ec49b55ee25)
+https://github.com/egormorgunov/smart_city_road/assets/108347547/e5c48253-002e-462e-8567-3dde24382e28
+
