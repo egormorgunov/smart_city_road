@@ -6,8 +6,8 @@
 
  ## Установка
 ```
-git clone https://github.com/kc-ml2/marlenv.git
-cd marlenv
+git clone https://github.com/egormorgunov/smart_city_road.git
+cd smart_city_road
 pip install -e .
 ```
  
