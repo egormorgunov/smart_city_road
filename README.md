@@ -21,7 +21,7 @@ pip install -e .
 
 Для тестирования среды **Smart City Road** используйте файлы "test.py", которые содержатся в папках с каждой из версий среды (для одноагентной среды файл находится [здесь](single-agent-env/test.py), для мультиагентной - [здесь](multi-agent-env/test.py)).
 
-```
+```python
 from Env_Single_agent import SmartCityRoad
 import random
 
@@ -35,3 +35,6 @@ if __name__ == '__main__':
             action = random.randint(0, 4)
             reward, next_state, done = env.step(action)
 ```
+
+## Цитирование
+
