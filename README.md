@@ -11,6 +11,9 @@ cd smart_city_road
 pip install -e .
 ```
 ## Версии среды
+
+![image](https://github.com/egormorgunov/smart_city_road/assets/108347547/34b0443d-d70a-412b-9acb-ed29482bd351)
+
 - Одноагентная версия с 8 агентами-кооператорами и 1 агентом-дефектором (см. [Одноагентную вариацию среды](single-agent-env/Env_Single_agent.py))
 - Мультиагентная версия с 8 агентами-кооператорами и 2 агентами-дефекторами (см. [Мультиагентную версию среды](multi-agent-env/Env_Multi_agent.py))
 
