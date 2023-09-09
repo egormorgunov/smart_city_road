@@ -39,5 +39,3 @@ if __name__ == '__main__':
             reward, next_state, done = env.step(action)
 ```
 
-## Цитирование
-
