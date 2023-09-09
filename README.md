@@ -2,7 +2,7 @@
  
 ![DQN_singleEnvironment](https://github.com/egormorgunov/smart_city_road/assets/108347547/21a9017c-c9ec-4902-bc52-b91abbbf4baf)
 
- **Smart City Road** - is a game environment for multi-agent reinforcement learning. The environment simulates the movement of cars in conditions of dense traffic flow with the separation of agents into cooperators and defectors.
+ **Smart City Road** is a game environment for multi-agent reinforcement learning. The environment simulates the movement of cars in conditions of dense traffic flow with the separation of agents into cooperators and defectors.
 
  ## Installation
 ```
@@ -22,7 +22,7 @@ Full environment documentation is given in the following :taxi: [file](Environme
 
 ## Testing
 
-To test the **Smart City Road** environment use files "test.py ", which are contained in folders with each of the versions of the environment (for a single-agent environment, the file is [here](single-agent-env/test.py), for a multi-agent environment - [here](multi-agent-env/test.py)).
+To test the **Smart City Road** environment use files "test.py ", which are contained in folders with each of the environment versions (for a single-agent environment, the file is [here](single-agent-env/test.py), for a multi-agent environment - [here](multi-agent-env/test.py)).
 
 ```python
 from Env_Single_agent import SmartCityRoad
